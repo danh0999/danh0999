@@ -1,4 +1,4 @@
-# Hi, I'm Đặng Đức Anh 👋
+# Hi, I'm Đức Anh 👋
 **Fresher Technical Business Analyst | UI/UX Design (9.4/10) & ReactJS Execution Capability**
 
 📍 Ho Chi Minh City, Vietnam · 📧 [dangducanh999@gmail.com](mailto:dangducanh999@gmail.com) · 📞 (+84) 866 896 570
