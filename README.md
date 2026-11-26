@@ -1,7 +1,7 @@
 ﻿# Hi, I'm Đức Anh 👋
 **Fresher Technical Business Analyst | UI/UX Design (9.4/10) & ReactJS Execution Capability**
 
-📍 Ho Chi Minh City, Vietnam · 📧 [dangducanh999@gmail.com](mailto:dangducanh999@gmail.com) · 📞 (+84) 866 896 570
+📍 Ho Chi Minh City, Vietnam · 📧 [dangducanh999@gmail.com](mailto:dangducanh999@gmail.com) · 📞 (+84) 866 896 570 · 💼 [LinkedIn](https://www.linkedin.com/in/dang-duc-anh-se/)
 
 ---
 
@@ -39,4 +39,5 @@ Software Engineering graduate from **FPT University** (**9.4/10 in UI/UX Design*
 - **Business Analysis & Product:** Requirement Analysis · Business Rules Modeling · User Flows / BPMN · Use Case Diagrams · BRD / Feature Specs · UAT & Usability Testing
 - **UI/UX & Modeling:** UI/UX Design · Wireframing · Figma · Draw.io · Basic UML · ERD Reading
 - **Front-end & Technical:** ReactJS · JavaScript · TypeScript · HTML/CSS/SCSS · Redux Toolkit · RESTful API Integration · Postman · Agile/Scrum · Git/GitHub
+
 
