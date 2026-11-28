@@ -28,7 +28,7 @@ Software Engineering graduate from **FPT University** with a Front-end backgroun
 
 | Project | Role | Key Highlights | Links |
 |---|---|---|---|
-| **Hokori** — *AI-Powered Japanese Learning Platform* | **BA (Docs & Testing) & Front-end (ReactJS)** *(Capstone · 144/275 non-merge commits)* | Non-BE SDLC docs (SRS, User Guides, Final Report), Use Case & Flowcharts, early 18-screen UX Pilot + Figma prototype, analysis of 3 AI features, Shared AI Quota & 5 CRUD Immutability Rules, 14-module (212 TCs) system testing, Learner & Admin ReactJS modules | [Case Study](https://dang-duc-anh-portfolio.vercel.app/#hokori) · [BA Spec](https://dang-duc-anh-portfolio.vercel.app/hokori-ba-spec.html) · [Repo](https://github.com/danh0999/Hokori-Learning) |
+| **Hokori** — *AI-Powered Japanese Learning Platform* | **BA (Docs & Testing) & Front-end (ReactJS)** *(Capstone · 144/275 non-merge commits)* | Non-BE SDLC docs (SRS, User Guides, Final Report), Use Case & Flowcharts, UI frame prototyping (Figma + UX Pilot), analysis of 3 AI features, Shared AI Quota & 5 CRUD Immutability Rules, 14-module (212 TCs) system testing, Learner & Admin ReactJS modules | [Case Study](https://dang-duc-anh-portfolio.vercel.app/#hokori) · [BA Spec](https://dang-duc-anh-portfolio.vercel.app/hokori-ba-spec.html) · [Repo](https://github.com/danh0999/Hokori-Learning) |
 | **Blood Donation Support System** | **BA (Docs & Testing) & Front-end (ReactJS)** *(Team 7 · 52/274 non-merge commits)* | Non-BE docs (Use Case specs, Screens Flow, SDS, User Manual), donor Use Case & Flowcharts, 10-question Pre-Donation Health Screening UI with validation, Scheduling, History & `ProtectedRoute` | [Case Study & UI](https://dang-duc-anh-portfolio.vercel.app/#blood-donation) |
 | **RatioPack Batch Pro** | **Solo Product Designer & Builder** *(Live Micro-SaaS)* | Client-side 300 DPI batch print-ratio processor for Etsy sellers; Free/Pro licensing (ECDSA server-signed token, 10-device cap, 7-day re-verification, refund/chargeback revocation via Gumroad) & conversion UX | [Live App](https://ratiopack-batch-pro.vercel.app/) · [Overview](https://dang-duc-anh-portfolio.vercel.app/#ratiopack) |
 
@@ -37,6 +37,6 @@ Software Engineering graduate from **FPT University** with a Front-end backgroun
 ### 🛠 Toolkit
 
 - **Business Analysis & Product:** Requirement Analysis · SRS & Feature Specs · Use Case Diagrams · Flowcharts · User & Admin Flows · Business Rules · Functional / System Testing · User Guides
-- **UI/UX & Prototyping:** UI/UX Design · Figma (Wireframes & Interactive Flows) · UX Pilot (AI-Assisted UI/Wireframe Generation) · Draw.io · Basic UML · ERD Reading
+- **UI/UX & Prototyping:** UI/UX Design · Wireframing · Combining Figma with UX Pilot (Generating UI Frames & Interactive Flows) · Draw.io · Basic UML · ERD Reading
 - **Front-end & Technical:** ReactJS · JavaScript · TypeScript · HTML/CSS/SCSS · Redux Toolkit · RESTful API Integration · Postman · Database Fundamentals · Agile/Scrum · SDLC · Git/GitHub
 - **AI-Assisted Workflow:** Requirement Research, Edge-Case Analysis & Rapid UI Prototyping with Claude, ChatGPT & AI Coding Agents (verified against business rules & manual testing)
