@@ -39,3 +39,4 @@ Software Engineering graduate from **FPT University** with a Front-end backgroun
 - **Business Analysis & Product:** Requirement Analysis · SRS & Feature Specs · Use Case Diagrams · Flowcharts · User & Admin Flows · Business Rules · Functional / System Testing · User Guides
 - **UI/UX & Modeling:** UI/UX Design · Wireframing · Figma · Draw.io · Basic UML · ERD Reading
 - **Front-end & Technical:** ReactJS · JavaScript · TypeScript · HTML/CSS/SCSS · Redux Toolkit · RESTful API Integration · Postman · Database Fundamentals · Agile/Scrum · SDLC · Git/GitHub
+- **AI-Assisted Workflow:** Requirement Research, Edge-Case Analysis & Rapid UI Prototyping with Claude, ChatGPT & AI Coding Agents (verified against business rules & manual testing)
